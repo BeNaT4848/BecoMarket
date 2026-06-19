@@ -16,3 +16,13 @@ Funcionalidades principales
 - Consulta de información de productos.
 - Administración de datos comerciales.
 - Persistencia de información mediante MySQL.
+- 
+🎯 Objetivos del proyecto
+Facilitar la gestión de un comercio.
+Automatizar procesos administrativos.
+Mejorar el control de productos y pedidos.
+Aplicar conocimientos de Java y bases de datos relacionales.
+
+👨‍💻 Autor
+
+Proyecto desarrollado por Beñat Gandiaga como práctica de programación y gestión de bases de datos.
